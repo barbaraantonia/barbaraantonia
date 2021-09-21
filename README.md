@@ -1,17 +1,16 @@
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="25">  Hi, I’m @barbaraantonia and I'm a Quality Assurancer! 
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="30">  Hi, I’m @barbaraantonia and I'm a Quality Assurancer! 
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="20"> I’m interested in PHP, JavaScript, HTML, CSS, Ladder, C, C++, C#, Phyton and HMI programming.
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="30"> I’m interested in PHP, JavaScript, HTML, CSS, Ladder, C, C++, C#, Phyton and HMI programming.
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> I’m currently learning more about PHP and JavaScript.
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30"> I’m currently learning more about PHP and JavaScript.
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="20"> I am looking forward to learn more about programming and my dream is to improve my skills to help people arround the world, showing what I am really capable of.
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="30"> I am looking forward to learn more about programming and my dream is to improve my skills to help people arround the world, showing what I am really capable of. 
 
 ### My stats
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/barbaraantonia/github-readme-stats)
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/barbaraantonia/github-readme-stats) 
+<img src=https://octocat-generator-assets.githubusercontent.com/my-octocat-1632248267929.png width="200"> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraantonia&layout=compact&&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src=https://github.com/barbaraantonia/barbaraantonia/blob/output/github-contribution-grid-snake.svg>
 
 ###### Emblems
 
@@ -28,4 +27,5 @@
 
 ## How to reach me 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barbaraantonia)](https://github.com/barbaraantonia) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-cardemas)]( https://www.linkedin.com/in/barbara-cardemas)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barbaraantonia)](https://github.com/barbaraantonia)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-cardemas)]( https://www.linkedin.com/in/barbara-cardemas)
