@@ -1,11 +1,15 @@
-> - 👋 Hi, I’m @barbaraantonia and I'm a Quality Assurancer!
-> - 👀 I’m interested in PHP, JavaScript, HTML, CSS, Ladder, C, C++, C#, Phyton and HMI programming.
-> - 🌱 I’m currently learning PHP and JavaScript.
-> - 💞️ I’m looking to collaborate on projects that change people lives, making them easier.
-> - I am looking forward to learn more about programming and my dream is to improve my skills to help people arround the world, showing what I am really capable of.
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif width="25">  Hi, I’m @barbaraantonia and I'm a Quality Assurancer! 
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif width="20"> I’m interested in PHP, JavaScript, HTML, CSS, Ladder, C, C++, C#, Phyton and HMI programming.
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="20"> I’m currently learning more about PHP and JavaScript.
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="20"> I am looking forward to learn more about programming and my dream is to improve my skills to help people arround the world, showing what I am really capable of.
 
 ### My stats
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&show_icons=true&theme=vue)](https://github.com/barbaraantonia/github-readme-stats)
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&show_icons=true&theme=graywhite&bg_color=DEG,FEE3E2,FCF4C9,ABBFFF)](https://github.com/barbaraantonia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraantonia&layout=compact&show_icons=true&theme=graywhite&bg_color=DEG,FEE3E2,FCF4C9,ABBFFF)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###### Emblems
 
@@ -20,6 +24,6 @@
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
-## How to reach me
+## How to reach me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barbaraantonia)](https://github.com/barbaraantonia) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-cardemas)]( https://www.linkedin.com/in/barbara-cardemas)
