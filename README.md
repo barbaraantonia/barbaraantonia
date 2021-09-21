@@ -7,7 +7,7 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="20"> I am looking forward to learn more about programming and my dream is to improve my skills to help people arround the world, showing what I am really capable of.
 
 ### My stats
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&show_icons=true&theme=graywhite&bg_color=DEG,FEE3E2,FCF4C9,ABBFFF)](https://github.com/barbaraantonia/github-readme-stats)
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&theme=graywhite)](https://github.com/barbaraantonia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraantonia&layout=compact&show_icons=true&theme=graywhite&bg_color=DEG,FEE3E2,FCF4C9,ABBFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
