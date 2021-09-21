@@ -8,7 +8,7 @@
 
 ### My stats
 [![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbaraantonia&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/barbaraantonia/github-readme-stats) 
-<img src=https://octocat-generator-assets.githubusercontent.com/my-octocat-1632248267929.png width="200"> 
+<img src=https://octocat-generator-assets.githubusercontent.com/my-octocat-1632248267929.png width="220"> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraantonia&layout=compact&&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/anuraghazra/github-readme-stats)
 
