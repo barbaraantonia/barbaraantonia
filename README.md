@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraantonia&layout=compact&&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/anuraghazra/github-readme-stats)
 
-###### Emblems
+### My Emblems
 
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
