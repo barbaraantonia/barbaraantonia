@@ -25,6 +25,10 @@
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
+### My Snake
+
+  ![Snake animation](https://github.com/barbaraanotnia/barbaraantonia/blob/output/github-contribution-grid-snake.svg)
+
 ## How to reach me 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barbaraantonia)](https://github.com/barbaraantonia)
