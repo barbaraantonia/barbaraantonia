@@ -27,7 +27,7 @@
 
 ### My Snake
 
-  ![Snake animation](https://github.com/barbaraanotnia/barbaraantonia/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/barbaraantonia/barbaraantonia/blob/output/github-contribution-grid-snake.svg)
 
 ## How to reach me 
 
