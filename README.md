@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraantonia&layout=compact&&theme=graywhite&show_icons=true&bg_color=DEG,e3f4fe,87CEFA)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src=https://github.com/barbaraantonia/barbaraantonia/blob/output/github-contribution-grid-snake.svg>
 
 ###### Emblems
 
